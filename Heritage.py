@@ -34,7 +34,7 @@ voiture1 = Voiture("Bougatti verron", 90, 500)
 voiture1.se_deplacer()
 print(voiture1.puissance, "CH")
 
-Avion1 = Avion("Boeing", 6000, "Missiles solsol")
+Avion1 = Avion("Boeing", 6000, "Missiles sol sol")
 Avion1.se_deplacer()
 print(Avion1.marchandise)
 
